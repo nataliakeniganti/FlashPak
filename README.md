@@ -1,2 +1,3 @@
-# FlashPak
-Flashing phones: Xiaomi, Oppo, Huawei.
+## FlashPak: How to flash
+# Downloads
+Xiaomi Oppo Huawei
